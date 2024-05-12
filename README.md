@@ -2,8 +2,8 @@
 
 ## Purpose 
 
-This is a simple APP made with Groq, Sreamlit and LLAMA model. Streamlit can be used to make a fast prototyping tool for machine learning applciations. It can be easily converted to React and Vue apps as state management and redering is similar. 
-This is a simple chatbot made thorough groq and llama model with memory. This is to test fast inference speed of this combination.
+This is a simple APP made with Groq, Sreamlit, and LLAMA model. Streamlit can be used to make a fast prototyping tool for machine learning applications. It can be easily converted to React and Vue apps as state management and rendering is similar. 
+This is a simple chatbot made through groq and llama model with memory. This is to test fast inference speed of this combination.
 
 ## Techstack
 
